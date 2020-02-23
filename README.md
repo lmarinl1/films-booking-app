@@ -9,6 +9,12 @@ El objetivo es tener un pequeño sistema de reserva de peliculas. para esto debe
  - Front-end (Ruby On Rails)
 
 ## Deployment
+
+### Diagram
+
+![Imagen](./Untitled%20Diagram.jpg)
+
+
 ### Dependencies
  
  - Node: 11.14.0
