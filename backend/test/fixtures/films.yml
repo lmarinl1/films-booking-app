@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  tittle: MyString
+  synopsis: MyString
+  image: MyString
+  startDay: 2020-01-25
+  endDate: 2020-01-25
+
+two:
+  tittle: MyString
+  synopsis: MyString
+  image: MyString
+  startDay: 2020-01-25
+  endDate: 2020-01-25

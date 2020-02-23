@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  film: one
+  day: 2020-01-25
+  cedula: MyString
+  nombre: MyString
+  correo: MyString
+  celular: MyString
+
+two:
+  film: two
+  day: 2020-01-25
+  cedula: MyString
+  nombre: MyString
+  correo: MyString
+  celular: MyString
