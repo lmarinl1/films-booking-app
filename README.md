@@ -22,6 +22,8 @@ s an asynchronous event-driven JavaScript runtime, Node.js is designed to build 
 
  - NPM: 6.7.0 
  npm makes it easy for JavaScript developers to share and reuse code, and makes it easy to update the code that you’re sharing, so you can build amazing things. [Get it!](https://www.npmjs.com/get-npm)
+ 
+- React [Download](https://react-cn.github.io/react/downloads.html)
 
  - Rails: 5.2.4
 Rails is a web application development framework written in the Ruby language. It is designed to make programming web applications easier by making assumptions about what every developer needs to get started. It allows you to write less code while accomplishing more than many other languages and frameworks. Experienced Rails developers also report that it makes web application development more fun. [Getting Started!](https://guides.rubyonrails.org/v5.0/getting_started.html)
